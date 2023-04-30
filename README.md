@@ -9,7 +9,7 @@ Esté um projeto de uma Calculadora Simples no formato console, onde temos as pr
 2. Neste caso escolhemos o número "2", portanto será uma operação de Subtração.
 (Aperte "Enter" para prosseguir)
 
-![image](https://user-images.githubusercontent.com/97135241/235369418-32c00560-73b9-41fe-b1a2-643b191a4134.png)
+![image](https://user-images.githubusercontent.com/97135241/235369827-f7c4756a-3c92-4a81-bdc7-b8ce48cee38d.png)
 
 Você deve digitar os numeros que você deseja fazer a subtração e apertar "Enter".
 
