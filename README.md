@@ -10,11 +10,11 @@ Esté um projeto de uma Calculadora Simples no formato console, onde temos as pr
 
 ![image](https://user-images.githubusercontent.com/97135241/235369827-f7c4756a-3c92-4a81-bdc7-b8ce48cee38d.png)
 
-Você deve digitar os numeros que você deseja fazer a subtração e apertar "Enter".
+3. Você deve digitar os numeros que você deseja fazer a subtração e apertar "Enter".
 
 ![image](https://user-images.githubusercontent.com/97135241/235369574-4525dd6e-9127-4691-a964-95ccfedd2559.png)
 
-Para finalizar a operação e escolher outra, você só apertará a tecla "Enter" que você vai ser redirecionado para o "Menu" novamente.
+4. Para finalizar a operação e escolher outra, você só apertará a tecla "Enter" que você vai ser redirecionado para o "Menu" novamente.
 
 
 
